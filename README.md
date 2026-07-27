@@ -160,6 +160,14 @@ The model with hour and weekday effects achieved the highest R² of 0.891. Howev
 - Model evaluation and selection
 - Environmental data interpretation
 
+## Repository Contents
+
+- `Final Assigment Predictive.ipynb`: Jupyter Notebook containing the complete data preparation, analysis, modeling, diagnostics, and evaluation process
+- `AirQualityUCI.xlsx`: Original Air Quality dataset used for the project
+- `cleaned_air_quality.csv`: Cleaned dataset prepared for modeling
+- `Assigment Predictive Final Group 8.pdf`: Complete written project report
+- `Final Presentation Predictive Final Group 8.pdf`: Presentation summarizing the methodology, models, results, and conclusions
+
 ## Project Limitations
 
 - Data cleaning reduced the sample from 9,357 observations to 827 complete cases.
